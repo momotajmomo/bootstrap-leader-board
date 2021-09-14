@@ -1,0 +1,8 @@
+.filled{
+    color:orange;
+}
+.clocked{
+    background-color: orangered;
+    color: white;
+    padding: 5px 10px;
+}
